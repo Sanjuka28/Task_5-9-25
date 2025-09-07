@@ -1,2 +1,6 @@
 File 3
+<<<<<<< HEAD
 First branch update
+=======
+Modified in second
+>>>>>>> secondbranch
